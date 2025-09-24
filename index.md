@@ -28,7 +28,7 @@ I am fascinated by **how culture is shared and shaped in society**. My research 
 ## News
 
 - **Sep 2025:** Presented at Graduate Student Workshop on Science of Science at TEMA Toyota Internal Research Meeting
-- **Jun 2025:** Attended Complex Systems Summer School at Santa Fe, NM
+- **Jun 2025:** Attended Complex Systems Summer School at Santa Fe Institute in Santa Fe, NM
 - **Aug 2024:** Gave a tutorial on "Ethics and Text" at SICSS-Chicago
 - **Jun 2024:** Presented "Leading the Evolution: Board Expertise and Diversity Dynamics" at NetSci 2024 in Québec City
 - **Nov 2020:** Presented research on COVID-19's impact on sales patterns at KASBS Academic Meeting
@@ -37,7 +37,7 @@ I am fascinated by **how culture is shared and shaped in society**. My research 
 
 ### In Progress
 
-1. **Cybersecurity Expert Directors in Boardroom**  
+3. **Cybersecurity Expert Directors in Boardroom**  
    **Ji Hae Choi**  
    *In Progress*
 
@@ -47,7 +47,7 @@ I am fascinated by **how culture is shared and shaped in society**. My research 
 
 ### Published
 
-3. **Changes in Offline Consumption Pattern after COVID-19: An Analysis of 2020 Credit Card Usage**  
+1. **Changes in Offline Consumption Pattern after COVID-19: An Analysis of 2020 Credit Card Usage**  
    **Ji Hae Choi**, Seungwha Chung, Sunju Park, Taejoon Park  
    *Yonsei Business Review*, 58(3), 83-102. (2021)
 

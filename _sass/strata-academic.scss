@@ -139,13 +139,13 @@ input, select, textarea {
     -ms-transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
     transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
     border-bottom: dotted 1px;
-    color: #49bf9d;
+    color: #2D1B69;
     text-decoration: none;
   }
 
     a:hover {
       border-bottom-color: transparent;
-      color: #49bf9d !important;
+      color: #2D1B69 !important;
       text-decoration: none;
     }
 
@@ -1869,7 +1869,7 @@ input, select, textarea {
     input[type="email"]:focus,
     select:focus,
     textarea:focus {
-      border-color: #49bf9d;
+      border-color: #2D1B69;
     }
 
   select {
@@ -1974,7 +1974,7 @@ input, select, textarea {
 
     input[type="checkbox"]:focus + label:before,
     input[type="radio"]:focus + label:before {
-      border-color: #49bf9d;
+      border-color: #2D1B69;
     }
 
   input[type="checkbox"] + label:before {
@@ -2492,8 +2492,8 @@ input, select, textarea {
     input[type="reset"]:hover,
     input[type="button"]:hover,
     .button:hover {
-      border-color: #49bf9d;
-      color: #49bf9d !important;
+      border-color: #2D1B69;
+      color: #2D1B69 !important;
     }
 
     input[type="submit"]:active,
@@ -2501,8 +2501,8 @@ input, select, textarea {
     input[type="button"]:active,
     .button:active {
       background-color: rgba(73, 191, 157, 0.1);
-      border-color: #49bf9d;
-      color: #49bf9d !important;
+      border-color: #2D1B69;
+      color: #2D1B69 !important;
     }
 
     input[type="submit"].icon,
@@ -2545,8 +2545,8 @@ input, select, textarea {
     input[type="reset"].primary,
     input[type="button"].primary,
     .button.primary {
-      background-color: #49bf9d;
-      border-color: #49bf9d;
+      background-color: #2D1B69;
+      border-color: #2D1B69;
       color: #ffffff !important;
     }
 
@@ -3105,7 +3105,7 @@ input, select, textarea {
 
       #footer {
         background-attachment: scroll;
-        background-color: #1f1815;
+        background-color: #4F2582;
         background-image: url("../img/bg.jpg");
         background-position: top left,            bottom center;
         background-repeat: repeat,              no-repeat;

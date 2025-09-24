@@ -1,19 +1,29 @@
 ---
 layout: homepage
 ---
-# Ji Hae Choi
+# Ji-Whiz
 
 ## About Me
 
-Hi! I am **Ji Hae Choi** (pronounced "Jee-Hay"). I am a Ph.D. student in the MORS (Management & Organizations) department at the Kellogg School of Management, Northwestern University. Born and raised in Seoul, South Korea, I began my academic journey studying Economics and Management Science before extending into computational social science at business school.
-
-I am fascinated by **how culture is shared and shaped in society**. My research explores how power dynamics and institutional forces shape people's *objective functions*, creating environments that realign with societal demands. Specifically, I investigate how our conceptual spaces are restructured by society, particularly through our close social networks.
+Hi! I am **Ji Hae Choi** (pronounced "Jee-Hay"). 
+I am a Ph.D. student in the MORS (Management & Organizations) department at the Kellogg School of Management, Northwestern University and researcher in residence at NICO (Northwestern Institute on Complex Systems. I am advised by Professor Brian Uzzi. 
+Born and raised in Seoul, South Korea, I began my academic journey studying Economics and Management Science before extending into computational social science at business school.
 
 ## Research Interests
+
+I am fascinated by **how culture is shared and shaped in society**. My research explores how power dynamics and institutional forces shape people's *objective functions*, creating environments that realign with societal demands. Specifically, I investigate how our conceptual spaces are restructured by society, particularly through our close social networks.
 
 - **Cultural Evolution:** How culture is transmitted and transformed through social networks and institutional power dynamics
 - **Large Language Models:** Monitoring knowledge evolution and understanding cognitive structures through computational methods
 - **Network Analysis:** Board networks, social influence, and organizational dynamics
+
+### Active Projects
+
+**LLM-Based Expertise Extraction**: Developing methods to identify and track the evolution of director expertise using large language models and advanced ML techniques.
+
+**Neural Activity and LLM Correlations**: Investigating the relationship between neural patterns and language model representations to better understand cognitive processes.
+
+**Knowledge Structuralization**: Using LLMs to reorganize human knowledge according to recurring patterns in our thought structures, creating more quantifable knowledge frameworks.
 
 ## News
 
@@ -75,18 +85,10 @@ I am fascinated by **how culture is shared and shaped in society**. My research 
    *The 2nd International Symposium Social Innovation and Engagement in the Digital Society* (with S. Chung, S. Park, N. Pyo, & L. Zhao)  
    Kyoto, Japan, July 2019
 
-### Active Projects
-
-**LLM-Based Expertise Extraction**: Developing methods to identify and track the evolution of director expertise using large language models and advanced ML techniques.
-
-**Neural Activity and LLM Correlations**: Investigating the relationship between neural patterns and language model representations to better understand cognitive processes.
-
-**Knowledge Structuralization**: Using LLMs to reorganize human knowledge according to recurring patterns in our thought structures, creating more quantifable knowledge frameworks.
-
 ## Beyond Research
 
 I am enthusiastic **swimmer**, **foodie**, and **coffee enthusiast**. I love **live music** across all genres. In that sense, Chicago is a perfect place to be!
 
 ## Let's Connect
 
-I'm always excited to discuss research collaborations, share ideas about computational social science, or chat about the latest developments in LLMs and network analysis. Feel free to check out my [CV](./assets/CV_JHC_092325.pdf), or [reach out]([mailto:jihae[dot]choi[at]kellogg.northwestern.edu]) if you'd like to connect!
+I'm always excited to discuss research collaborations, share ideas about computational social science, or chat about the latest developments in LLMs and network analysis. Feel free to check out my [CV](./assets/CV_JHC_092325.pdf), or [reach out](mailto:jihae[dot]choi[at]kellogg.northwestern.edu) <!-- jihae[dot]choi[at]... will break --> if you'd like to connect!

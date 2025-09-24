@@ -5,9 +5,10 @@ layout: homepage
 
 ## About Me
 
-Hi! I am **Ji Hae Choi** (pronounced "Jee-Hay"). 
-I am a Ph.D. student in the MORS (Management & Organizations) department at the Kellogg School of Management, Northwestern University and researcher in residence at NICO (Northwestern Institute on Complex Systems. I am advised by Professor Brian Uzzi. 
-Born and raised in Seoul, South Korea, I began my academic journey studying Economics and Management Science before extending into computational social science at business school.
+Hi! I am **Ji Hae** (pronounced "Jee-Hay"). 
+I am a Ph.D. student in the MORS (Management & Organizations) department at the Kellogg School of Management, Northwestern University and researcher in residence at NICO (Northwestern Institute on Complex Systems). I am advised by Professor Brian Uzzi.
+
+Born and raised in Seoul, South Korea, I began my academic journey studying Economics and Management Science before extending into computational social science at business school. Outside of research, I am a swimmer, foodie, and coffee enthusiast. I am also a big fan of live music across all genres. In that sense, Chicago is a perfect place to be!
 
 ## Research Interests
 
@@ -84,10 +85,6 @@ I am fascinated by **how culture is shared and shaped in society**. My research 
 1. **Analyzing User Networks of an Online Contents Platform**  
    *The 2nd International Symposium Social Innovation and Engagement in the Digital Society* (with S. Chung, S. Park, N. Pyo, & L. Zhao)  
    Kyoto, Japan, July 2019
-
-## Beyond Research
-
-I am a **swimmer**, **foodie**, and **coffee enthusiast**. I love **live music** across all genres. In that sense, Chicago is a perfect place to be!
 
 ## Let's Connect
 

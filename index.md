@@ -91,4 +91,4 @@ I am a **swimmer**, **foodie**, and **coffee enthusiast**. I love **live music**
 
 ## Let's Connect
 
-I'm always excited to discuss research collaborations, share ideas about computational social science, or chat about the latest developments in LLMs and network analysis. Feel free to check out my [CV](./assets/CV_JHC_092325.pdf), or [reach out](mailto:jihae[dot]choi[at]kellogg.northwestern.edu) <!-- jihae[dot]choi[at]... will break --> if you'd like to connect!
+I'm always excited to discuss research collaborations, share ideas about computational social science, or chat about the latest developments in LLMs and network analysis. Feel free to check out my [CV](./assets/CV_JHC.pdf), or [reach out](mailto:jihae[dot]choi[at]kellogg.northwestern.edu) <!-- jihae[dot]choi[at]... will break --> if you'd like to connect!

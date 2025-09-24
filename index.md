@@ -1,68 +1,92 @@
 ---
 layout: homepage
 ---
+# Ji Hae Choi
+
+## About Me
+
+Hi! I am **Ji Hae Choi** (pronounced "Jee-Hay"). I am a Ph.D. student in the MORS (Management & Organizations) department at the Kellogg School of Management, Northwestern University. Born and raised in Seoul, South Korea, I began my academic journey studying Economics and Management Science before extending into computational social science at business school.
+
+I am fascinated by **how culture is shared and shaped in society**. My research explores how power dynamics and institutional forces shape people's *objective functions*, creating environments that realign with societal demands. Specifically, I investigate how our conceptual spaces are restructured by society, particularly through our close social networks.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Cultural Evolution:** How culture is transmitted and transformed through social networks and institutional power dynamics
+- **Large Language Models:** Monitoring knowledge evolution and understanding cognitive structures through computational methods
+- **Network Analysis:** Board networks, social influence, and organizational dynamics
 
 ## News
 
-- **[Feb 2020]** Our paper about incremental learning is accepted to [CVPR 2020](http://cvpr2020.thecvf.com/).
-- **[Feb 2020]** We will host the [ACM Multimedia Asia 2020](https://mmasia2020.org/) conference in Singapore!
-- **[Sep 2019]** Our paper about few-shot learning is accepted to [NeurIPS 2019](https://nips.cc/Conferences/2019).
-- **[Mar 2019]** Our paper about few-shot learning is accepted to [CVPR 2019](http://cvpr2019.thecvf.com/).
+- **Sep 2025:** Presented at Graduate Student Workshop on Science of Science at TEMA Toyota Internal Research Meeting
+- **Jun 2025:** Attended Complex Systems Summer School at Santa Fe, NM
+- **Aug 2024:** Gave a tutorial on "Ethics and Text" at SICSS-Chicago
+- **Jun 2024:** Presented "Leading the Evolution: Board Expertise and Diversity Dynamics" at NetSci 2024 in Québec City
+- **Nov 2020:** Presented research on COVID-19's impact on sales patterns at KASBS Academic Meeting
 
 ## Publications
 
-- **Mnemonics Training: Multi-Class Incremental Learning without Forgetting**
-  <br>
-  **Yaoyao Liu**, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-  <br>
-  IEEE Conference on Computer Vision and Pattern Recognition. **CVPR 2020**.
-  <br>
-  [[PDF](https://arxiv.org/pdf/2002.10211.pdf)] [[Code](https://github.com/yaoyao-liu/mnemonics)] [[Project](https://mnemonics.yyliu.net/)] <strong><i style="color:#e74d3c">Oral Presentation</i></strong>
+### In Progress
 
-- **Learning to Self-Train for Semi-Supervised Few-Shot Classification**
-  <br>
-  Xinzhe Li, Qianru Sun, **Yaoyao Liu**, Shibao Zheng, Qin Zhou, Tat-Seng Chua, Bernt Schiele
-  <br>
-  33rd Conference on Neural Information Processing Systems. **NeurIPS 2019**.
-  <br>
-  [[PDF](http://papers.nips.cc/paper/9216-learning-to-self-train-for-semi-supervised-few-shot-classification.pdf)] [[Code](https://github.com/xinzheli1217/learning-to-self-train)] [[Poster](https://people.mpi-inf.mpg.de/~yaliu/files/learning-to-self-train-poster.pdf)]
+1. **Cybersecurity Expert Directors in Boardroom**  
+   **Ji Hae Choi**  
+   *In Progress*
 
-- **Meta-Transfer Learning for Few-Shot Learning**
-  <br>
-  Qianru Sun\*, **Yaoyao Liu\***, Tat-Seng Chua, Bernt Schiele
-  <br>
-  IEEE Conference on Computer Vision and Pattern Recognition. **CVPR 2019**.
-  <br>
-  [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)] [[Code](https://github.com/yaoyao-liu/meta-transfer-learning)] [[Project](https://mtl.yyliu.net/)] [[Poster](https://people.mpi-inf.mpg.de/~yaliu/files/meta-transfer-learning-poster.pdf)]
+2. **Strategies for Board Directors to Excel and Survive**  
+   **Ji Hae Choi**, Brian Uzzi  
+   *In Progress*
 
+### Published
+
+3. **Changes in Offline Consumption Pattern after COVID-19: An Analysis of 2020 Credit Card Usage**  
+   **Ji Hae Choi**, Seungwha Chung, Sunju Park, Taejoon Park  
+   *Yonsei Business Review*, 58(3), 83-102. (2021)
 
 ## Selected Talks
 
-- **Learning to Self-Train for Semi-Supervised Few-Shot Classification**
-  <br>
-  NeurIPS Official Meetups
-  <br>
-  Beijing, China, December 2019 [[Slides](https://people.mpi-inf.mpg.de/~yaliu/files/learning-to-self-train-slides.pdf)]
+8. **Graduate Student Workshop on Science of Science**  
+   *TEMA Toyota Internal Research Meeting* (with N. Banerjee & J. Dalsgaard)  
+   Hybrid, September 2025
 
-- **Multi-Class Incremental Learning**
-  <br>
-  School of Computer Science and Engineering, Nanyang Technological University
-  <br>
-  Singapore, July 2019 [[Slides](https://people.mpi-inf.mpg.de/~yaliu/files/multi-class-incremental-learning.pdf)]
+7. **Ethics and Text (Tutorial)**  
+   *SICSS-Chicago*  
+   Chicago, USA, August 2024
 
-- **Meta-Transfer Learning for Few-Shot Learning**
-  <br>
-  School of Computing, National University of Singapore
-  <br>
-  Singapore, April 2019 [[Slides](https://people.mpi-inf.mpg.de/~yaliu/files/meta-transfer-learning-slides.pdf)]
+6. **Leading the Evolution: Board Expertise and Diversity Dynamics in Shifting Industry Landscapes**  
+   *NetSci 2024* (with B. Uzzi)  
+   Québec City, Canada, June 2024
 
-## Services
+5. **Change in Sales Pattern after COVID-19 Outbreak**  
+   *KASBS Academic Meeting 2020* (with T. Park, Y. Chung & S. Park)  
+   Seoul, South Korea, November 2020
 
-- Co-organizer: [ACM MM Asia 2020](https://mmasia2020.org/).
-- Conference Reviewers: [NeurIPS 2020](https://neurips.cc/Conferences/2020), and [CVPR 2020](http://cvpr2020.thecvf.com/).
-- Journal Reviewers: [T-PAMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34), and [IJCV](https://www.springer.com/journal/11263).
+4. **The Relationship between the Popularity of YouTube Channels and User Comment Networks**  
+   *2020 AMA Summer Academic Conference* (with S. Chung & S. Park)  
+   Remote, August 2020
+
+3. **Analyzing Structural Dependency in Reviewer-Product Network**  
+   *2019 Korean Scholars of Marketing Science International Conference* (with S. Park)  
+   Seoul, South Korea, November 2019
+
+2. **Analyzing Reviewers' Influence on Amazon.com**  
+   *INFORMS Annual Meeting 2019*  
+   Seattle, USA, October 2019
+
+1. **Analyzing User Networks of an Online Contents Platform**  
+   *The 2nd International Symposium Social Innovation and Engagement in the Digital Society* (with S. Chung, S. Park, N. Pyo, & L. Zhao)  
+   Kyoto, Japan, July 2019
+
+### Active Projects
+
+**LLM-Based Expertise Extraction**: Developing methods to identify and track the evolution of director expertise using large language models and advanced ML techniques.
+
+**Neural Activity and LLM Correlations**: Investigating the relationship between neural patterns and language model representations to better understand cognitive processes.
+
+**Knowledge Structuralization**: Using LLMs to reorganize human knowledge according to recurring patterns in our thought structures, creating more quantifable knowledge frameworks.
+
+## Beyond Research
+
+I am enthusiastic **swimmer**, **foodie**, and **coffee enthusiast**. I love **live music** across all genres. In that sense, Chicago is a perfect place to be!
+
+## Let's Connect
+
+I'm always excited to discuss research collaborations, share ideas about computational social science, or chat about the latest developments in LLMs and network analysis. Feel free to explore my [publications](./publications/), check out my [CV](./cv/), or [reach out](./contact/) if you'd like to connect!

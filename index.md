@@ -87,7 +87,7 @@ I am fascinated by **how culture is shared and shaped in society**. My research 
 
 ## Beyond Research
 
-I am enthusiastic **swimmer**, **foodie**, and **coffee enthusiast**. I love **live music** across all genres. In that sense, Chicago is a perfect place to be!
+I am a **swimmer**, **foodie**, and **coffee enthusiast**. I love **live music** across all genres. In that sense, Chicago is a perfect place to be!
 
 ## Let's Connect
 

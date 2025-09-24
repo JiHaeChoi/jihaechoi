@@ -1,6 +1,6 @@
 title: Ji Hae Choi
 position: Ph.D. Student
-affiliation: Northwestern Universit
+affiliation: Northwestern University
 location: Chicago, USA (GMT-5)
 email: jihae [dot] choi (at) kellogg.northwestern.edu
 #google_scholar: https://scholar.google.com/
@@ -11,6 +11,6 @@ avatar: ./assets/img/profile.jpg
 google_analytics: G-ZHV05533VK
 favicon: ./assets/img/rainbow.png
 favicon_dark: ./assets/img/rainbow.png
-description: Computational Social Scientist at Business School
+description: Computational Social Scientist in Business School
 #canonical: https://strata-academic.yyliu.net/
 remote_theme: yaoyao-liu/strata-academic

@@ -6,7 +6,7 @@ layout: homepage
 ## About Me
 
 Hi! I am **Ji Hae** (pronounced "Jee-Hay"). 
-I am a Ph.D. student in the MORS (Management & Organizations) department at the Kellogg School of Management, Northwestern University and researcher in residence at NICO (Northwestern Institute on Complex Systems). I am advised by Professor Brian Uzzi.
+I am a Ph.D. student in MORS (Management & Organizations) department at Kellogg School of Management, Northwestern University and researcher in residence at NICO (Northwestern Institute on Complex Systems). I am advised by Professor Brian Uzzi.
 
 Born and raised in Seoul, South Korea, I began my academic journey studying Economics and Management Science before extending into computational social science at business school. Outside of research, I am a swimmer, foodie, and coffee enthusiast. I am also a big fan of live music across all genres. In that sense, Chicago is a perfect place to be!
 
